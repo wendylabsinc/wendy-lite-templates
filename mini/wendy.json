@@ -1,0 +1,11 @@
+{
+  "appId": "mini",
+  "version": "0.1.0",
+  "platform": "wendy-lite",
+  "language": "swift",
+  "entitlements": [
+    {
+      "type": "network"
+    }
+  ]
+}

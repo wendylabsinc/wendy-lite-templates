@@ -1,0 +1,15 @@
+{
+  "originHash" : "44f6fcaa12a4cc8039bce66c766903ef79abbdf37a584152fb658f757a60ecf8",
+  "pins" : [
+    {
+      "identity" : "wendy-lite",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wendylabsinc/wendy-lite",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0d86c771ca62bb7a66e486f0acbbd2585c26e354"
+      }
+    }
+  ],
+  "version" : 3
+}
